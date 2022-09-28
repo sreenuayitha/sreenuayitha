@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sreenuayitha
-- 👀 I’m interested in ...data analyst
+- 👀 I’m interested in ...AI,ML...
 - 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...via phone no. 8520819103
 
 <!---
